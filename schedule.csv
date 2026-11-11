@@ -1,0 +1,9 @@
+id,request,lab,date,slot,students,summary,status,reason
+Q01,Python Lab 1 on 15 October afternoon for 55 students,LAB1,2026-10-15,AN,55,Lab session,available,Tentative; the lab in-charge must confirm.
+Q07,Seminar Hall 20 Oct afternoon for 100 students,LAB5,2026-10-20,AN,100,Lab session,available,Tentative; the lab in-charge must confirm.
+Q08,AI Lab 21 Oct morning for 40 students,LAB3,2026-10-21,FN,40,Lab session,available,Tentative; the lab in-charge must confirm.
+Q09,Python Lab 1 22 Oct morning for 60 students,LAB1,2026-10-22,FN,60,Lab session,available,Tentative; the lab in-charge must confirm.
+Q15,Python Lab 1 28 Oct at 10:00 for 45 students,LAB1,2026-10-28,FN,45,Lab session,available,Tentative; the lab in-charge must confirm.
+Q16,AI Lab 29 Oct at 14:00 for 30 students,LAB3,2026-10-29,AN,30,Lab session,available,Tentative; the lab in-charge must confirm.
+Q17,Seminar Hall 30 Oct afternoon for 70 students,LAB5,2026-10-30,AN,70,Lab session,available,Tentative; the lab in-charge must confirm.
+Q18,AI Lab 31 Oct morning for 20 students,LAB3,2026-10-31,FN,20,Lab session,available,Tentative; the lab in-charge must confirm.
