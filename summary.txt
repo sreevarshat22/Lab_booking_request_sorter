@@ -1,0 +1,15 @@
+Mode: Saved demo details; no AI calls
+Tentative only. The lab in-charge confirms bookings.
+
+By status:
+available: 8
+conflict: 3
+lab_closed: 1
+needs_more_info: 6
+over_capacity: 2
+
+By lab:
+LAB1: 5
+LAB3: 8
+LAB5: 5
+Unknown: 2
