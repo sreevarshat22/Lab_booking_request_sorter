@@ -1,0 +1,13 @@
+id,request,lab,date,slot,students,summary,status,reason
+Q02,AI Lab on 16 Oct afternoon for 35 students,LAB3,2026-10-16,AN,35,Lab session,conflict,This lab and slot are already taken.
+Q03,Seminar Hall on 18 Oct morning for 80 students,LAB5,2026-10-18,FN,80,Lab session,lab_closed,Labs are closed on Sunday.
+Q04,Need a lab tomorrow for project review,,,,,Lab session,needs_more_info,Missing or invalid details.
+Q05,AI Lab on 19 Oct morning for 50 students,LAB3,2026-10-19,FN,50,Lab session,over_capacity,Too many students for this lab.
+Q06,Book LAB1 on 15 Oct AN for 30 students,LAB1,2026-10-15,AN,30,Lab session,conflict,This lab and slot are already taken.
+Q10,AI Lab tomorrow afternoon for 20 students,LAB3,,AN,20,Lab session,needs_more_info,Missing or invalid details.
+Q11,Python lab 23 Oct morning for 25 students,,2026-10-23,FN,25,Lab session,needs_more_info,Missing or invalid details.
+Q12,Seminar Hall 24 Oct for 90 students,LAB5,2026-10-24,,90,Lab session,needs_more_info,Missing or invalid details.
+Q13,AI Lab 26 Oct afternoon please,LAB3,2026-10-26,AN,,Lab session,needs_more_info,Missing or invalid details.
+Q14,Seminar Hall 27 Oct morning for 150 students,LAB5,2026-10-27,FN,150,Lab session,over_capacity,Too many students for this lab.
+Q19,Python Lab 1 31 February afternoon for 20 students,LAB1,,AN,20,Lab session,needs_more_info,Missing or invalid details.
+Q20,AI Lab 21 Oct morning for 25 students please,LAB3,2026-10-21,FN,25,Lab session,conflict,This lab and slot are already taken.
